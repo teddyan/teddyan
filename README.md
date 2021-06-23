@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, 👋
 
 <!--
 **teddyan/teddyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teddyan&theme=blueberry)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teddyan&show_icons=true&theme=blueberry)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddyan&layout=compact&theme=blueberry)
 
