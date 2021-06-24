@@ -1,4 +1,5 @@
-### Hi there, ![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/Tednology.png)👋
+## ![image](https://github.com/teddyan/AustraliaTaxCalc/blob/main/src/img/Tednology.png)
+### Hi there, 👋
 *🌱 I’m currently learning React.js.*
 
 <!--
